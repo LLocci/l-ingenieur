@@ -82,10 +82,7 @@ function App() {
         centered
       >
         <video width="100%" controls autoPlay>
-          <source
-            src="public/kevin.mp4" /* {`${process.env.PUBLIC_URL}/sample-video.mp4`} */
-            type="video/mp4"
-          />
+          <source src="public/ingenieur.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </Modal>
