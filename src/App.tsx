@@ -70,7 +70,7 @@ function App() {
           icon={<HeartTwoTone />}
           onClick={showModal}
         >
-          Open Video
+          click me babe
         </Button>
       </ConfigProvider>
 
