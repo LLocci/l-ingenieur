@@ -1,6 +1,6 @@
 # L'ingénieur
 
-Hey you, please clone this repo, go to its root (cd into l-ingenieur) and run the following command to start the project
+Hey you, please clone this repo, go to its root (cd into l-ingenieur) and run the following commands to start the project
 
 ```shell
 npm install pnpm -g
